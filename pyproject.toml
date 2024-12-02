@@ -2,7 +2,7 @@
 name = "python-in-geophysics-course"
 version = "0.1.0"
 description = ""
-authors = ["Nikolay Arkhipov <ndarkhipov@sberautotech.ru>"]
+authors = ["Nikolay Arkhipov <cherrykolya@mail.ru>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
